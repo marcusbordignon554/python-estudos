@@ -2,7 +2,7 @@
 
 UFRJ • Computação • Python • NumPy • Pandas • SciPy
 
-Repositório contendo estudos, exercícios e aplicações desenvolvidas durante o aprendizado da linguagem Python na disciplina de Computação da UFRJ.
+Repositório contendo estudos, exercícios e aplicações desenvolvidas durante o aprendizado da linguagem Python na disciplina de Computação II da UFRJ.
 
 ---
 
