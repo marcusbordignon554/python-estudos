@@ -87,5 +87,3 @@ Aplicações envolvendo:
 - Organização de código
 
 ---
-
-## 📂 Organização do Repositório
