@@ -1,6 +1,6 @@
 # 🐍 Python Estudos
 
-UFRJ • Computação • Python • NumPy • Pandas • SciPy
+UFRJ • Computação • Python • NumPy • Pandas • SciPy • Matplotlib • Tkinter
 
 Repositório contendo estudos, exercícios e aplicações desenvolvidas durante o aprendizado da linguagem Python na disciplina de Computação II da UFRJ.
 
